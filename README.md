@@ -1,6 +1,4 @@
-<div align="center">
-# Hi 👋, I'm Catarina 👩🏻
-</div>
+<h1 align="center">Hi 👋, I'm Catarina 👩🏻</h1>
 
 
 🎓 I hold a bachelor's and master's degree in **Biomedical Engineering** from the University of Coimbra. My master's degree was specialised in *Clinical Informatics and Bioinformatics*, but in recent years I've developed a deep curiosity and interest in exploring solutions through **machine learning** to make **healthcare** **more** **personalised**.
