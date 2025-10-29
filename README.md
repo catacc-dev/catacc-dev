@@ -13,7 +13,7 @@
 🚀 I'm currently seeking opportunities in medtech companies/startups, where I can gain hands-on experience in this field and contribute to impactful projects through innovative solutions.
 
 <p align="center">
-📫 <a href="mailto:catarinaccaldeira.02@gmail.com">Email</a> • 
+📫 <a href="mailto:catarinaccaldeira.02@gmail.com">catarinaccaldeira.02@gmail.com</a> • 
 💼 <a href="https://www.linkedin.com/in/catarina-caldeira">LinkedIn</a>
 </p>
 
