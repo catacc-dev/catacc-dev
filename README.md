@@ -12,6 +12,6 @@
 
 🚀 I'm currently seeking opportunities in medtech companies/startups, where I can gain hands-on experience in this field and contribute to impactful projects through innovative solutions.
 
-<h3 align="center">📫 How to reach me: [catarinaccaldeira.02@gmail.com](mailto:catarinaccaldeira.02@gmail.com)</h3>
+<p align="center">📫 How to reach me: [catarinaccaldeira.02@gmail.com](mailto:catarinaccaldeira.02@gmail.com)</p>
 
-🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/catarina-c-caldeira/)
+<p align="center">🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/catarina-c-caldeira/)</p>
