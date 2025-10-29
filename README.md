@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Catarina 👩🏻
 
-<!--
-**catacc-dev/catacc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold a bachelor's and master's degree in **Biomedical Engineering** from the University of Coimbra. My master's degree was specialised in *Clinical Informatics and Bioinformatics*, but in recent years I've developed a deep curiosity and interest in exploring solutions through **machine learning** to make **healthcare** **more** **personalised**.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **French** and exploring the functioning of **LLMs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [catarinaccaldeira.02@gmail.com](mailto:catarinaccaldeira.02@gmail.com) | [LinkedIn](https://www.linkedin.com/catarina-c-caldeira) 
+
+⚡ Fun fact: I am from the "Pearl of the Atlantic", Madeira Island (Portugal).
+
+🏆 Career goal: Build an international career while working on meaningful, energising projects at the intersection of AI and healthcare
+
+🚀 I'm currently seeking opportunities in medtech companies/startups, where I can gain hands-on experience in this field and contribute to impactful projects through innovative solutions. 
