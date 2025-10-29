@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Catarina 👩🏻</h1>
-<h4 align="center">Recent master's graduate | PyTorch</h4>
 
+<p align="center">Recent master's graduate | PyTorch</p>
 
 🎓 I hold a bachelor's and master's degree in **Biomedical Engineering** from the University of Coimbra. My master's degree was specialised in *Clinical Informatics and Bioinformatics*, but in recent years I've developed a deep curiosity and interest in exploring useful solutions through **machine learning** to make **healthcare** **more** **personalised**.
 
