@@ -4,7 +4,7 @@
 
 🎓 I hold a bachelor's and master's degree in **Biomedical Engineering** from the University of Coimbra. My master's degree was specialised in *Clinical Informatics and Bioinformatics*, but in recent years I've developed a deep curiosity and interest in exploring useful solutions through **machine learning** to make **healthcare** **more** **personalised**.
 
-🌱 I’m currently learning French and exploring the functioning of LLMs. 
+🌱 I’m currently learning French, exploring how LLMs and AI agents work, and attending AI conferences. 
 
 ⚡ Fun fact: I am from the "Pearl of the Atlantic", Madeira Island (Portugal).
 
