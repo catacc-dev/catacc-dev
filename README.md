@@ -15,6 +15,6 @@
 <p align="center">
 Feel free to reach out:
 📫 <a href="mailto:catarinaccaldeira.02@gmail.com">catarinaccaldeira.02@gmail.com</a> • 
-💼 <a href="https://www.linkedin.com/in/catarina-caldeira">LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/catarina-c-caldeira">LinkedIn</a>
 </p>
 
