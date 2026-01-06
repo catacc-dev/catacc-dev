@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning French, exploring how LLMs and AI agents work, and attending AI conferences. 
 
-⚡ Fun fact: I am from the "Pearl of the Atlantic", Madeira Island (Portugal).
+⚡ Fun fact: I'm from the "Pearl of the Atlantic", Madeira Island (Portugal).
 
 🏆 Career goal: Build an international career while working on meaningful, energising projects at the intersection of AI and healthcare.
 
